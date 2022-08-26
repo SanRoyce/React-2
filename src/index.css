@@ -1,0 +1,14 @@
+body {
+  margin: 70px;
+}
+input {
+  max-width: 30%;
+}
+.form-group{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+button{
+  margin-top: 10px;
+}
